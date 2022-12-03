@@ -1,0 +1,32 @@
+a{
+  color: rgb(255, 0, 0);
+  text-decoration: none;
+}
+
+.ctn{
+  padding: 5px 8px;
+  border-radius: 12px;
+}
+
+.nav_links{
+  /* text-decoration: none; */
+  list-style: none;
+}
+
+.h1_dec {
+  /* text-decoration: burlywood; */
+  text-decoration: underline;
+}
+
+.navmenu {
+  /* background-color: aqua;
+  padding: 5px; */
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.nav__dec {
+  display: flex;
+  justify-content: space-between;
+  background-color: aquamarine;
+}
